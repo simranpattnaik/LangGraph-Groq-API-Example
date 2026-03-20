@@ -79,49 +79,6 @@ Response generation
 
 🔹 Edges
 
-Defines flow between nodes and controls execution order.
 
-🔄 Workflow
-User Question
-      ↓
-Process Query
-      ↓
-LLM Reasoning
-      ↓
-Generate Response
-      ↓
-Return Output
-▶️ How to Run
-1️⃣ Clone the repository
-git clone https://github.com/yourusername/langgraph-groq-demo.git
-2️⃣ Install dependencies
-pip install -r requirements.txt
-3️⃣ Run the notebook
-jupyter notebook
-💡 Use Cases
 
-AI chatbots
 
-Multi-step reasoning systems
-
-Workflow automation with LLMs
-
-Research & experimentation
-
-🌟 Future Improvements
-
-Add memory support
-
-Integrate external tools (RAG, APIs)
-
-Deploy as a web app (Streamlit)
-
-Enhance UI/UX
-
-🤝 Contributing
-
-Feel free to fork this repo and contribute! 🚀
-
-📬 Connect
-
-If you found this useful, let's connect on LinkedIn 💙# LangGraph-Groq-API-Example
